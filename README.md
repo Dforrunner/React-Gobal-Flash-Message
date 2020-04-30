@@ -31,7 +31,7 @@ Example:
 
 Dependencies:
 In addition to React you'll need to install the following npm modules: 
-```javascript
+```bash
   npm i events
   npm i @material-ui/core
   npm i @material-ui/lab
