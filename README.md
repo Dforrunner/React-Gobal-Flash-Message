@@ -3,7 +3,7 @@ This is a React functional component that uses Material-UI and Events to create 
 
 To use this component simply import it in your App.js like so: 
 
-```
+```javascript
 import React, {Component} from 'react';
 import FlashMessage from './file/path/FlashMessage';
 
@@ -25,13 +25,13 @@ To display a flash message use the global funtion `window.flash`. This function 
 
 Example:
 
-```
+```javascript
   window.flash("Your alert message", "info");
 ```
 
 Dependencies:
 In addition to React you'll need to install the following npm modules: 
-```
+```javascript
   npm i events
   npm i @material-ui/core
   npm i @material-ui/lab
