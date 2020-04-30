@@ -32,9 +32,9 @@ Example:
 Dependencies:
 In addition to React you'll need to install the following npm modules: 
 ```bash
-  npm i events
-  npm i @material-ui/core
-  npm i @material-ui/lab
-  npm i @material-ui/icons
+  $ npm i events
+  $ npm i @material-ui/core
+  $ npm i @material-ui/lab
+  $ npm i @material-ui/icons
 ```
 
